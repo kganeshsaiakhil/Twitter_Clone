@@ -1,0 +1,16 @@
+.feed{
+    flex:0.5;
+    width: 100%;
+    border-left:  1.5px solid var(--twitter-secondary);
+    border-right: 1.5px solid var(--twitter-secondary);
+    height: 130vh;
+}
+
+.feed_header{
+    padding: 0.5rem 1rem;
+}
+
+.feed_header h2{
+    font-size:1.2rem;
+}
+
